@@ -1,0 +1,16 @@
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\bin\Debug\Loja_do_Rafa.exe.config
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\bin\Debug\Loja_do_Rafa.exe
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\bin\Debug\Loja_do_Rafa.pdb
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.csprojAssemblyReference.cache
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.Ajuda.resources
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.Cargos.resources
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.Cliente.resources
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.Form1.resources
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.Funcionario.resources
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.Produtos.resources
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.Properties.Resources.resources
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.Setores.resources
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.csproj.GenerateResource.cache
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.csproj.CoreCompileInputs.cache
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.exe
+C:\Users\Guilherme\Desktop\Loja_do_Rafa\Loja_do_Rafa\obj\Debug\Loja_do_Rafa.pdb
